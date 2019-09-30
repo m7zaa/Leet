@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/obj/Debug/netcoreapp2.2/Leet.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/obj/Debug/netcoreapp2.2/Leet.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/obj/Debug/netcoreapp2.2/Leet.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/obj/Debug/netcoreapp2.2/Leet.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/bin/Debug/netcoreapp2.2/Leet.Tests.deps.json
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/bin/Debug/netcoreapp2.2/Leet.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/bin/Debug/netcoreapp2.2/Leet.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/bin/Debug/netcoreapp2.2/Leet.Tests.dll
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/bin/Debug/netcoreapp2.2/Leet.Tests.pdb
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/bin/Debug/netcoreapp2.2/Leet.dll
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/bin/Debug/netcoreapp2.2/Leet.pdb
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/obj/Debug/netcoreapp2.2/Leet.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/obj/Debug/netcoreapp2.2/Leet.Tests.dll
+/Users/Guest/Desktop/Leet.Solution/Leet.Tests/obj/Debug/netcoreapp2.2/Leet.Tests.pdb

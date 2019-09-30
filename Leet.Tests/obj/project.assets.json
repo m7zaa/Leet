@@ -1617,6 +1617,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Leet/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/Leet.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Leet.dll": {}
+        }
       }
     }
   },
@@ -5796,10 +5806,16 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Leet/1.0.0": {
+      "type": "project",
+      "path": "../Leet/Leet.csproj",
+      "msbuildProject": "../Leet/Leet.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "Leet >= 1.0.0",
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
@@ -5813,11 +5829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/Leet/Leet.Tests/Leet.Tests.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/Leet.Solution/Leet.Tests/Leet.Tests.csproj",
       "projectName": "Leet.Tests",
-      "projectPath": "/Users/Guest/Desktop/Leet/Leet.Tests/Leet.Tests.csproj",
+      "projectPath": "/Users/Guest/Desktop/Leet.Solution/Leet.Tests/Leet.Tests.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/Leet/Leet.Tests/obj/",
+      "outputPath": "/Users/Guest/Desktop/Leet.Solution/Leet.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5833,7 +5849,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/Guest/Desktop/Leet.Solution/Leet/Leet.csproj": {
+              "projectPath": "/Users/Guest/Desktop/Leet.Solution/Leet/Leet.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

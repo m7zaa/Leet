@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/Leet.Solution/Leet/obj/Debug/netcoreapp2.2/Leet.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Leet.Solution/Leet/obj/Debug/netcoreapp2.2/Leet.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Leet.Solution/Leet/obj/Debug/netcoreapp2.2/Leet.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Leet.Solution/Leet/obj/Debug/netcoreapp2.2/Leet.AssemblyInfo.cs
+/Users/Guest/Desktop/Leet.Solution/Leet/bin/Debug/netcoreapp2.2/Leet.deps.json
+/Users/Guest/Desktop/Leet.Solution/Leet/bin/Debug/netcoreapp2.2/Leet.dll
+/Users/Guest/Desktop/Leet.Solution/Leet/bin/Debug/netcoreapp2.2/Leet.pdb
+/Users/Guest/Desktop/Leet.Solution/Leet/obj/Debug/netcoreapp2.2/Leet.dll
+/Users/Guest/Desktop/Leet.Solution/Leet/obj/Debug/netcoreapp2.2/Leet.pdb
